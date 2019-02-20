@@ -1,4 +1,4 @@
-package me.takehiro.flutter_weather.flutter_weather
+package me.takehiro.flutterweather
 
 import android.os.Bundle
 
